@@ -19,7 +19,20 @@
         },
         "username": "amyrobson"
       },
-      "replies": []
+      "replies": [ {
+          "id": 5,
+          "content": "I am awesome bro",
+          "createdAt": "2 days ago",
+          "score": 2,
+          "replyingTo": "ramsesmiron",
+          "user": {
+            "image": {
+              "png": "/images/avatars/image-juliusomo.png",
+              "webp": "/images/avatars/image-juliusomo.webp"
+            },
+            "username": "juliusomo"
+          }
+        }]
     },
     {
       "id": 2,
